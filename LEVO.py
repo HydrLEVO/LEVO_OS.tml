@@ -11,9 +11,50 @@ print("""
                                             |                                                          | 
                                             |________________________LEVO_BETA_________________________|
 """)
+select = input(">>> ")
+if select == '4':
+    print("""
+    storage-data = 34.99_.9,328 [GIG'S]
+    
+    ████████████████████████████████████████████████████████████████████████████████████████████████████
+    installation satisfied = compleated
+    
+    installation = compleate
+    """)
+    
+if select == '1':
+ print("""
+                                                        LEVO_LOADUP
+""")
+print("""
+                                                 loading up resource's
+                                                
+                                           do not interfere with the loadup system
+                                           
+                                                                   
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    BBBBBBBBBBBBBBBBBBBB
+                                                    BBBBBBBBBBBBBBBBBBBB         
+                                                    
+                                               TYPE 'LOADUP' TO ENTER YOUR DESKTOP                   
+""")
+
 select = input("[?]: ")
 
-if select == '1':
+if select == 'loadup':
     print("""
                                                               LEVO
 """)
@@ -43,11 +84,117 @@ if select == '1':
     [4] LEVO_dos
     """)
 select = input(">: ")
-if select == '2':
-        print("please press 'f' to start LEVO_BETA2.1")
+if select == '1':
+        print("""
+                                                                  LEVO_ALPHA-GRUB
+                                            ___________________________________________________________
+                                            |  [1] LEVO_BOOTUP​​​​​                                         |
+                                            |  [2] LEVO_RECOVERING_SYSTEM                              |
+                                            |  [4] DATA_STORAGE                                        |
+                                            |                                                          | 
+                                            |________________________LEVO_BETA_________________________|
+    """)
+select = input(">>> ")
+    
+if select == '1':
+    print("""
+
+please wait for installation to compleate...
+
+installing LEVO_ALPHA
+
+████████████████████████████████████████████████████████████████████████████████████████████████████
+
+installation = LEVO_ALPHA.os
+installation = LEVO_PACH.sys
+installation = satisfied
+
+install package = Compleated
+
+type in 'LU' to enter loadup
+""")
+select = input(">> ")
+if select == 'lu':
+      print("""
+                                                        LEVO_LOADUP
+      """)
+print("""
+                                                 loading up resource's
+                                                
+                                           do not interfere with the loadup system
+                                           
+                                                                   
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    BBBBBBBBBBBBBBBBBBBB
+                                                    BBBBBBBBBBBBBBBBBBBB         
+                                                    
+                                               TYPE 'LOADUP' TO ENTER YOUR DESKTOP                   
+""")
+
+select = input("[?]: ")
+
+if select == 'loadup':
+        print("please press 's' to start LEVO_BETA2.1")
         select = input (">: ")
         
 if select == 'f':
+    print("""
+                                                                  LEVO_ALPHA-GRUB
+                                            ___________________________________________________________
+                                            |  [1] LEVO_BOOTUP​​​​​                                         |
+                                            |  [2] LEVO_RECOVERING_SYSTEM                              |
+                                            |  [4] DATA_STORAGE                                        |
+                                            |                                                          | 
+                                            |________________________LEVO_BETA_________________________|
+    """)
+    select = input(">>> ")
+    
+    if select == '1':
+      print("""
+                                                        LEVO_LOADUP
+      """)
+print("""
+                                                 loading up resource's
+                                                
+                                           do not interfere with the loadup system
+                                           
+                                                                   
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    UUU
+                                                    BBBBBBBBBBBBBBBBBBBB
+                                                    BBBBBBBBBBBBBBBBBBBB         
+                                                    
+                                               TYPE 'LOADUP' TO ENTER YOUR DESKTOP                   
+""")
+
+select = input("[?]: ")
+
+if select == 'loadup':
     print("""
                                                           LEVO_BETA  2.1
     """)
