@@ -20,8 +20,10 @@ if select == '4':
     installation satisfied = compleated
     
     installation = compleate
-    """)
-    
+""")
+select = input(">> ") 
+
+
 if select == '1':
  print("""
                                                         LEVO_LOADUP
@@ -64,9 +66,8 @@ print("""
                                                         [3] To Open File Exploer
                                                         [4] storage_system
                                                         [5] To Open Terminal
-                                                        [6] To Open Calculator
                                                         
-                                                        [7] hydra_echo
+                                                        
                                                         
                                                         
                                                         [q] To Close OS Safley
@@ -75,6 +76,7 @@ print("""
 select = input(">: ")
 if select == 'q':
     os.system('exit')
+    
 
 if select == '1':
     print("""
@@ -95,6 +97,17 @@ if select == '1':
                                             |________________________LEVO_BETA_________________________|
     """)
 select = input(">>> ")
+
+if select == '2':
+    print("""
+                                                               LEVO_BETA2.1-GRUB
+                                            ___________________________________________________________
+                                            |  [1] LEVO_BOOTUP​​​​​                                         |
+                                            |  [2] LEVO_RECOVERING_SYSTEM                              |
+                                            |  [4] DATA_STORAGE                                        |
+                                            |                                                          | 
+                                            |________________________LEVO_BETA_________________________|
+""")
     
 if select == '1':
     print("""
@@ -196,17 +209,41 @@ select = input("[?]: ")
 
 if select == 'loadup':
     print("""
-                                                          LEVO_BETA  2.1
+                                                          LEVO_ALPHA
     """)
     print("""
                                                      [1] LEVO_virtaul-box
                                                      [2] LEVO_user-account
                                                      [3] LEVO_storage-system
-                                                     [4] AI_hydra-echo
+                                                     
     
                                                      [q] QUIT
 """)
 select = input(">: ")
+if select == '2':
+    print("""
+                                                    user-account  ALPHA
+                                                    
+                                                 [1] user station
+                                                 [2] info
+                   
+    """)
+select = input(">> ")
+if select == '1':
+        print("""
+                                               user is you
+                                      this is a user station by LEVO ALPHA 
+                                      
+                                            this is coming soon.
+        """) 
+        
+if select == '2':
+        print("""
+                                                   this user info is for no reason
+                                                   
+                                                      this is for a declear.
+        """)
+
 if select == '1':
     print("""
     [1] LEVO_ALPHA
